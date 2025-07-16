@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #161512;
+    color: aliceblue;
+}
+
+.titles {
+    text-shadow: 1px 1px goldenrod;
+    font-family: Tahoma, Verdana, sans-serif;
+    padding: 10px;
+}
+
+.titlecard {
+    margin: 30px;
+    text-align: center;
+}
+
+.recipecard {
+    border: 2px, dashed, white;
+    padding: 30px;
+}
+
+.recipes {
+     font-family: Georgia, Garamond, serif;
+     text-indent: 20px;
+     line-height: 30px;
+}
+
+.image {
+    border: 2px, dashed, aliceblue;
+    padding: 20px;
+    width: fit-content;
+    height: fit-content;
+}
+
+button {
+    background-color: goldenrod;
+    margin: 20px;
+}
